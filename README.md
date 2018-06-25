@@ -1,3 +1,3 @@
-# js-practice
+js-practice
 
-# Will hold all the js practice material
+Will hold all the js practice material
